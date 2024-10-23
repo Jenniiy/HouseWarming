@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=House
+comment1.params=
+comment1.target=House()
+comment2.params=boiler
+comment2.target=void\ addBoiler(Boiler)
+comment3.params=room
+comment3.target=void\ addRoom(Room)
+comment4.params=name\ temp
+comment4.target=void\ changeTempRoom(java.lang.String,\ int)
+comment5.params=temp
+comment5.target=void\ changeTempHouse(int)
+comment6.params=
+comment6.target=java.util.ArrayList\ getRooms()
+comment7.params=
+comment7.target=void\ printTempRooms()
+numComments=8

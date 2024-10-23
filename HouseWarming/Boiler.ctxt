@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Boiler
+comment1.params=maxPower
+comment1.target=Boiler(int)
+comment2.params=roomSize\ temp
+comment2.target=int\ setTemp(int,\ int)
+comment3.params=
+comment3.target=int\ getPower()
+comment4.params=
+comment4.target=int\ getMaxPower()
+numComments=5
